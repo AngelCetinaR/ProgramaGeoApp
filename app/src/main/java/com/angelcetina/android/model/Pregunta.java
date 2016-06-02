@@ -2,6 +2,7 @@ package com.angelcetina.android.model;
 
 /**
  * Created by cetina on 18/05/2016.
+ * Angel Daniel Cetina Romero - MS4 - 14470217
  */
 public class Pregunta {
     private Integer mIdResTexto;
